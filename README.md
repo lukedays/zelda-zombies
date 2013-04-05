@@ -1,4 +1,4 @@
-zelda-zombies
+Zelda Zombies
 =============
 
 This is a simple Zelda-based survival game built using [Scratch](http://scratch.mit.edu/).
