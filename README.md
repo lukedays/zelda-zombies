@@ -1,4 +1,10 @@
 zelda-zombies
 =============
 
-A simple Zelda survival game
+This is a simple Zelda-based survival game built using [Scratch](http://scratch.mit.edu/).
+
+[Play online!](http://scratch.mit.edu/projects/lucasgdias/3178536)
+
+Credits:
+[Zelda Shrine](http://zs.ffshrine.org/minish-cap/sprites.php)
+[Sounds](http://noproblo.dayjo.org/ZeldaSounds/)
